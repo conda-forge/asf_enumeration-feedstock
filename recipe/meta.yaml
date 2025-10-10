@@ -1,5 +1,5 @@
 {% set name = "asf_enumeration" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 19fbd3ef141f3e23eeffe9b95734e7344ad639d4fd2ef7dc1897baffecdf8be5
+  sha256: 748e8e3337baebb4f7a88ce216882be94a20faf754017b4a9458a1928aea3bfd
 
 build:
   noarch: python
