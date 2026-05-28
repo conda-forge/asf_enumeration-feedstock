@@ -13,10 +13,11 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=26074&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/asf_enumeration-feedstock?branchName=main">
+      <a href="https://github.com/conda-forge/asf_enumeration-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/asf_enumeration-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
@@ -144,11 +145,7 @@ Feedstock Maintainers
 =====================
 
 * [@asjohnston-asf](https://github.com/asjohnston-asf/)
-* [@forrestfwilliams](https://github.com/forrestfwilliams/)
 * [@jacquelynsmale](https://github.com/jacquelynsmale/)
 * [@jtherrmann](https://github.com/jtherrmann/)
 * [@williamh890](https://github.com/williamh890/)
-
-
-<!-- dummy commit to enable rerendering -->
 
